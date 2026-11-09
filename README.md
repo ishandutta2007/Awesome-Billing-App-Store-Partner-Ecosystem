@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Billing-App-Store-Partner-Ecosystem/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,9 +54,9 @@ The table below outlines leading SaaS billing, accounting, and workflow automati
 
 ## 🔓 Open-Source Billing & App Store Infrastructure
 
-For engineering teams requiring self-hosted sovereignty, zero vendor lock-in, custom billing workflows, or self-hosted app store distribution. Repositories are sorted in **descending order by GitHub star count**:
+For engineering teams requiring self-hosted sovereignty, zero vendor lock-in, custom billing workflows, or self-hosted app store distribution. Repositories are sorted in **descending order by GitHub Stars_Count**:
 
-| Open-Source Project | 🌟 GitHub Stars | 📖 Description | 🛠️ Architecture & Best For |
+| Open-Source Project | 🌟 GitHub_Stars | 📖 Description | 🛠️ Architecture & Best For |
 | :--- | :--- | :--- | :--- |
 | **[Nextcloud Server](https://github.com/nextcloud/server)** | [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Self-hosted productivity platform featuring a mature ISV App Store ecosystem with over 600+ deployable apps. | PHP / Vue / Docker. Ideal for developers building self-hosted enterprise apps with direct developer-to-customer software licenses. |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Modular, headless digital commerce engine with customizable billing, payment plugin framework, and multi-currency support. | Node.js / TypeScript. Best for composable commerce, modular checkout flows, and plugin-based digital marketplaces. |
