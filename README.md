@@ -54,7 +54,7 @@ The table below outlines leading SaaS billing, accounting, and workflow automati
 
 ## 🔓 Open-Source Billing & App Store Infrastructure
 
-For engineering teams requiring self-hosted sovereignty, zero vendor lock-in, custom billing workflows, or self-hosted app store distribution. Repositories are sorted in **descending order by GitHub Stars_Count**:
+For engineering teams requiring self-hosted sovereignty, zero vendor lock-in, custom billing workflows, or self-hosted app store distribution. Repositories are sorted in **descending order by GitHub_Stars_Count**:
 
 | Open-Source Project | 🌟 GitHub_Stars | 📖 Description | 🛠️ Architecture & Best For |
 | :--- | :--- | :--- | :--- |
